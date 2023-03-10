@@ -1,5 +1,5 @@
 import './home.styles.scss';
-import LogoTitle from '../../assets/images/logo-s.png';
+import LogoTitle from '../../assets/images/logo-p.png';
 import { Link } from 'react-router-dom';
 import { useState } from 'react';
 const Home = () => {
