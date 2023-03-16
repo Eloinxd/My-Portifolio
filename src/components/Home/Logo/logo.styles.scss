@@ -33,5 +33,22 @@
 
 .svg-container {
     stroke: #ffd700;
-    stroke-width: 10;
+}
+.cls-1,.cls-3{
+    fill:none;
+    stroke-miterlimit:10;
+    stroke-width:3px;
+}
+
+.cls-1{
+    stroke:gold;
+}
+.cls-2{
+    fill:gold;
+}
+.cls-3{
+    stroke:#fcee21;
+}
+.cls-4{
+    clip-path:url(#clip-path);
 }
